@@ -97,7 +97,7 @@ body {
 .container .container_link {
   margin-top: 20px;
   display: flex;
-  color: #00A8A9;
+  color: #00a8a9;
 }
 /* Menu */
 
@@ -105,15 +105,15 @@ body {
   display: contents;
 }
 
-.menu-drop-down{
-  font-weight:bold;
+.menu-drop-down {
+  font-weight: bold;
   color: #808185;
 }
 
-.menu-drop-options{
+.menu-drop-options {
   border-radius: 6px;
   padding: 8px 20px;
-  border: 1px solid #E2DEDC;
+  border: 1px solid #e2dedc;
 }
 
 #menu {
@@ -177,7 +177,6 @@ main {
 #nav-categories {
   line-height: 20px;
   width: max-content;
-
 }
 
 #categories ul li {
@@ -213,8 +212,6 @@ main {
 }
 
 /* CATALOGO */
-
-
 
 #filter {
   flex: 1;
@@ -294,7 +291,6 @@ main {
   display: table-caption;
 }
 
-
 #menu-products > h2 {
   color: var(--main-color);
   font-weight: 400;
@@ -311,7 +307,7 @@ main {
 
 #menu-products > div i {
   font-size: 28px;
-  color: #E2DEDC;
+  color: #e2dedc;
 }
 
 #menu-products > div > div {
@@ -320,7 +316,7 @@ main {
 }
 
 #menu-products small {
-  color: #E2DEDC;
+  color: #e2dedc;
   font-weight: bold;
 }
 
@@ -338,11 +334,11 @@ main {
   flex-direction: column;
   align-items: flex-start;
   color: var(--main-color);
-
 }
 
-.la, .las {
-  font-family: 'Line Awesome Free';
+.la,
+.las {
+  font-family: "Line Awesome Free";
   font-weight: 900;
   color: var(--main-color);
   font-size: 30px;
@@ -355,7 +351,7 @@ main {
   margin-bottom: 10px;
 }
 
-.order-by_container{
+.order-by_container {
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -392,7 +388,7 @@ main {
 }
 
 #products .price-product {
-  color: #1E2B50;
+  color: #1e2b50;
   margin-top: 25px;
   margin-bottom: 10px;
   font-size: 21px;
@@ -548,7 +544,6 @@ main {
     border: 1px solid #e2dedd;
   }
 
-
   #menu-products > div > div > i {
     display: none;
   }
@@ -607,13 +602,11 @@ main {
   }
 }
 
-
-.side-menu-box__small-title{
- font-size: 18px;
- color: #61908C;
- margin: 15px 0;
+.side-menu-box__small-title {
+  font-size: 18px;
+  color: #61908c;
+  margin: 15px 0;
 }
-
 
 .side-menu-box__categories h2 {
   margin-bottom: 15px;
@@ -626,7 +619,6 @@ main {
   color: #626262;
 }
 
-
 .side-menu-box__categories--li a:link,
 .side-menu-box__categories--li a:visited {
   color: #7c7c7c;
@@ -636,7 +628,7 @@ main {
   text-decoration: underline;
 }
 
-.side-menu-box__colors{
+.side-menu-box__colors {
   color: #626262;
 }
 
@@ -651,7 +643,7 @@ main {
   background-color: grey;
 }
 .side-menu-box__colors--bege {
-  background-color: rgb(248, 213, 219);
+  background-color: #f8d5db;
 }
 .side-menu-box__type {
   list-style-position: inside;
@@ -672,4 +664,3 @@ main {
 .side-menu-box__colors--azul {
   background-color: #5858cc;
 }
-
