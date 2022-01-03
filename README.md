@@ -1,4 +1,4 @@
-# WEBJUMP - LOJA DE ROUPAS
+# LOJA DE ROUPAS
 
 Projeto de uma loja feita a partir do zero em **JavaScript**, **CSS** e **HTML**.
 <hr>
